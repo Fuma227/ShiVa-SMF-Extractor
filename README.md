@@ -1,6 +1,6 @@
 # SMF Extractor
 
-**SMF Extractor** is a C++ tool designed to unpack `.smf` archive files used in games developed with the [ShiVa Engine](https://www.shiva-engine.com/).  
+**SMF Extractor** is a C++ tool designed to unpack `.smf` archive files used in games developed with the [ShiVa Engine](The engine was discontinued by its developers.). 
 It provides full source code and a simple Windows GUI, making it accessible for both developers and researchers.
 
 ---

@@ -1,0 +1,5 @@
+﻿  Alloc.c
+  LzmaDec.c
+  Создание кода...
+  Main.cpp
+D:\c++\Project1\Project1\Main.cpp(10,10): error C1083: Не удается открыть файл включение: zlib.h: No such file or directory,
